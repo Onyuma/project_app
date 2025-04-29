@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:project_app/home_screen.dart';
 import 'package:project_app/pages/intro_screen.dart';
+import 'package:project_app/quiz_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -22,7 +23,7 @@ class MyApp extends StatelessWidget {
       ),
       // initialRoute: '',
       routes: {
-        '/': (context) => const IntroScreen(),
+        '/': (context) => const QuizScreen(),
         '/home': (context) => const HomeScreen()
       },
     );
