@@ -1,7 +1,5 @@
 # project_app
-A new Flutter project.
-New Branch
-#Another comment added
+Flutter project by ONYUMA JOHN
 ## Getting Started
 This project is a starting point for a Flutter application.
 This project is a starting point for a Flutter application
